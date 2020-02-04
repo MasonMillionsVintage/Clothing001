@@ -6,7 +6,7 @@
 
 <body>
 	<h1>Welcome to the AR Library</h1>
-	<p>Welcome to the AR Library website. I created this website in order to view AR objects from the web on any device running iOS 12. Conincidentally, this is the first time I made a website with HTML! It's a lot of fun! You can find the whole tutorial here:
+	<p>Welcome to the AR Library website. I created this website in order to view AR objects from the web on any device 
 	<a href="DIFRE SOLD.reality" rel="ar">
 		<img src="DIFRE SOLD.png" width=200>
 
